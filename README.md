@@ -33,7 +33,7 @@ financial-operations-analytics/
 ├── at_risk_customers.csv             # High churn risk list
 ├── rfm_segmentation.csv              # RFM customer segments
 │
-├── financial_viz/                    # All visualizations (16 files)
+├── financial_viz/                    # All visualizations (14 files)
 │   ├── 01_initial_exploration.png
 │   ├── 02_ts_decomposition.png
 │   ├── 03_acf_pacf_analysis.png
