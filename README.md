@@ -38,18 +38,16 @@ financial-operations-analytics/
 │   ├── 02_ts_decomposition.png
 │   ├── 03_acf_pacf_analysis.png
 │   ├── 04_arima_forecast.png
-│   ├── 05_prophet_forecast.png
-│   ├── 06_prophet_components.png
-│   ├── 07_churn_analysis.png
-│   ├── 08_churn_model_evaluation.png
-│   ├── 09_churn_feature_importance.png
-│   ├── 10_risk_stratification.png
-│   ├── 11_cohort_retention.png
-│   ├── 12_revenue_cohorts.png
-│   ├── 13_rfm_analysis.png
-│   ├── 14_clv_analysis.png
-│   ├── 15_profitability_dashboard.png
-│   └── 16_FINAL_EXECUTIVE_DASHBOARD.png
+│   ├── 05_churn_analysis.png
+│   ├── 06_churn_model_evaluation.png
+│   ├── 07_churn_feature_importance.png
+│   ├── 08_risk_stratification.png
+│   ├── 09_cohort_retention.png
+│   ├── 10_revenue_cohorts.png
+│   ├── 11_rfm_analysis.png
+│   ├── 12_clv_analysis.png
+│   ├── 13_profitability_dashboard.png
+│   └── 14_FINAL_EXECUTIVE_DASHBOARD.png
 │
 ├── README.md                         # This file
 └── requirements.txt                  # Python dependencies
